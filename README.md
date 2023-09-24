@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <div align="center">
 <picture>
@@ -7,6 +7,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/whois-hoeless/whois-hoeless/output/github-contribution-grid-snake.svg">
 </div>
 
-<div align="center">
-  <img src="https://moe-counter.glitch.me/get/@hoeless_count?theme=rule34" alt="counter" />
-</div>
